@@ -2,7 +2,7 @@
 ## ver: 0.0.1
 ## created: 29.05.2020
 ## Krotki opis:
-### Program ma za zadanie zapytac uzytkownika o liczbe, w zamian ### program policzy pole kwadratu podanej wartosci typu double ### pole powierzchni calkowitej szescianu oraz objetosc danego ### szescianu
+### Program ma za zadanie zapytac uzytkownika o liczbe, w zamian program policzy pole kwadratu podanej wartosci typu double  pole powierzchni calkowitej szescianu oraz objetosc danego  szescianu
 
 
 ### Quick steps how to use program:
