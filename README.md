@@ -1,4 +1,4 @@
-# Zadanie2A - Obliaczanie pola kwadratu i szescianu
+# Zadanie2A - Obliczanie pola kwadratu i szescianu
 ## Quick steps how to use program:
 1. Sprawdz czy zostaly zainstalowane funkcje automake
 2. W terminalu wprowadz komende **autoconf**
