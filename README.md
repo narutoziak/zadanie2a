@@ -8,10 +8,10 @@
 ### Quick steps how to use program:
 1. Sprawdz czy zostaly zainstalowane funkcje automake
 2. W terminalu wprowadz ``autoreconf -i``
-3. Nastepnie ``autoconf`` po czym ``automake`` 
 ```diff
-! W tym etapie moga pojawic sie komuniakty o braku zainstalowanych funkcji typu aclocal, aby program zadzialal nalezy dodac funkcje wpisujac polecenie **aclocal**
+! W tym etapie moga pojawic sie komuniakty o braku zainstalowanych funkcji typu aclocal, aby program zadzialal nalezy dodac funkcje wpisujac polecenie aclocal
 ```
+3. Nastepnie ``autoconf`` po czym ``automake`` 
 4. Kompilujemy ``./configure``,po przekompilowaniu wpisujemy ``make``
 5. W tym momencie nasz program jest kompilowany
 6. W celu uruchomienia naszego programu wpisujemy ``./src/main``
