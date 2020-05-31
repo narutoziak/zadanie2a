@@ -19,7 +19,9 @@ sudo apt-get install libtool
 ```
 2. W terminalu wprowadz ``autoreconf -i``
 ```diff
-! W tym etapie moga pojawic sie komuniakty o braku zainstalowanych funkcji typu aclocal, aby program zadzialal nalezy dodac funkcje wpisujac polecenie aclocal
+! W tym etapie moga pojawic sie komuniakty o braku zainstalowanych funkcji typu aclocal
+! aby program zadzialal nalezy dodac funkcje wpisujac polecenie 
+aclocal
 ```
 3. Nastepnie ``autoconf`` po czym ``automake`` 
 ```diff
