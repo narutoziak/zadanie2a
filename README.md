@@ -16,6 +16,9 @@
 ! W tym etapie moga pojawic sie komuniakty o braku zainstalowanych funkcji typu aclocal, aby program zadzialal nalezy dodac funkcje wpisujac polecenie aclocal
 ```
 3. Nastepnie ``autoconf`` po czym ``automake`` 
+```dif
+! W tym miesjcu trzeba zaznaczyc, ze aby doszlo do kompilacji potrzebujemy kompilatora sprawdzamy to komenda gcc -v, po kompletnej instalacji ponownie probujemy ./configure i make 
+```
 4. Kompilujemy ``./configure``,po przekompilowaniu wpisujemy ``make``
 5. W tym momencie nasz program jest kompilowany
 6. W celu uruchomienia naszego programu wpisujemy ``./src/main``
