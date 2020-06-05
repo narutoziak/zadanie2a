@@ -11,8 +11,13 @@
 ### Dodano branch "issue" dot. biblioteki wspodzielonej i statycznej
 =======
 ## Status:
+<<<<<<< HEAD
 ### - Dodano biblioteki statyczne i wspoldzielone issue__b
 ### - Dodano make dist i klauzule EXTRA_DIST 
+>>>>>>> issue
+=======
+### Dodano biblioteki statyczne i wspoldzielone issue__b
+### Dodano make dist i klauzule EXTRA_DIST 
 >>>>>>> issue
 
 ### Quick steps how to use program:
@@ -36,6 +41,7 @@ aclocal
 4. Kompilujemy ``./configure``,po przekompilowaniu wpisujemy ``make``
 5. W tym momencie nasz program jest kompilowany
 6. W celu uruchomienia naszego programu wpisujemy ``./src/main``
+<<<<<<< HEAD
 7. Program powininen wyswietlic zadanie wpisania danej liczby oraz wyswietlic wyniki dotyczace pola kwadratu, pola calkowitego szescianu oraz objetosci szescianu.
 <<<<<<< HEAD
 
@@ -43,4 +49,7 @@ aclocal
 
 
 =======
+>>>>>>> issue
+=======
+7. Program powininen wyswietlic zadanie wpisania danej liczby oraz wyswietlic wyniki dotyczace pola kwadratu, pola calkowitego szescianu oraz objetosci szescianu.
 >>>>>>> issue
