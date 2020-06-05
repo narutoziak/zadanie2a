@@ -315,8 +315,12 @@ top_build_prefix = ../
 top_builddir = ..
 top_srcdir = ..
 <<<<<<< HEAD
+<<<<<<< HEAD
 EXTRA_DIST = pole.h objetosc.h
 =======
+>>>>>>> issue
+=======
+EXTRA_DIST = pole.h objetosc.h
 >>>>>>> issue
 AM_CPPFLAGS = -I program/include
 noinst_LIBRARIES = libpole.a
