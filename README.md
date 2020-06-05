@@ -11,9 +11,7 @@
 
 ## Status:
 
-### - Dodano biblioteki statyczne i wspoldzielone issue__b
-### - Dodano make dist i klauzule EXTRA_DIST 
-### Dodano biblioteki statyczne i wspoldzielone issue__b
+### Dodano biblioteki statyczne i wspoldzielone (issue)
 ### Dodano make dist i klauzule EXTRA_DIST 
 
 ### Quick steps how to use program:
