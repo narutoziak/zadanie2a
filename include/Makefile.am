@@ -1,3 +1,4 @@
+EXTRA_DIST = pole.h objetosc.h
 AM_CPPFLAGS = -I program/include
 noinst_LIBRARIES = libpole.a
 noinst_LTLIBRARIES = libobjetosc.la
