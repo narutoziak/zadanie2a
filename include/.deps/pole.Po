@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pole.o: pole.cpp /usr/include/stdc-predef.h pole.h \
  /usr/include/c++/7/math.h /usr/include/c++/7/cmath \
  /usr/include/i386-linux-gnu/c++/7/bits/c++config.h \
@@ -511,3 +512,6 @@ pole.h:
 /usr/include/c++/7/istream:
 
 /usr/include/c++/7/bits/istream.tcc:
+=======
+# dummy
+>>>>>>> issue

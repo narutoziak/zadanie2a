@@ -769,6 +769,7 @@ target_alias=''
 #define LT_OBJDIR ".libs/"
 
 configure: exit 0
+<<<<<<< HEAD
 
 ## ---------------------- ##
 ## Running config.status. ##
@@ -946,3 +947,5 @@ on ubuntu
 
 config.status:1071: creating include/Makefile
 config.status:1243: executing depfiles commands
+=======
+>>>>>>> issue

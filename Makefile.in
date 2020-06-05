@@ -158,8 +158,15 @@ ETAGS = etags
 CTAGS = ctags
 CSCOPE = cscope
 DIST_SUBDIRS = $(SUBDIRS)
+<<<<<<< HEAD
 am__DIST_COMMON = $(srcdir)/Makefile.in INSTALL compile config.guess \
 	config.sub depcomp install-sh ltmain.sh missing
+=======
+am__DIST_COMMON = $(srcdir)/Makefile.in $(top_srcdir)/../compile \
+	$(top_srcdir)/../config.guess $(top_srcdir)/../config.sub \
+	$(top_srcdir)/../install-sh $(top_srcdir)/../ltmain.sh \
+	$(top_srcdir)/../missing
+>>>>>>> issue
 DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)
 distdir = $(PACKAGE)-$(VERSION)
 top_distdir = $(distdir)
