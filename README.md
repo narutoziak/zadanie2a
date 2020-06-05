@@ -5,8 +5,8 @@
 ### Program ma za zadanie zapytac uzytkownika o liczbe, w zamian program policzy pole kwadratu podanej wartosci typu double  pole powierzchni calkowitej szescianu oraz objetosc danego  szescianu
 
 ## Status:
-### - Dodano biblioteki statyczne i wspoldzielone issue__b
-### - Dodano make dist i klauzule EXTRA_DIST 
+### Dodano biblioteki statyczne i wspoldzielone issue__b
+### Dodano make dist i klauzule EXTRA_DIST 
 
 ### Quick steps how to use program:
 1. Sprawdz czy zostaly zainstalowane funkcje automake 
